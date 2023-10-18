@@ -21,7 +21,7 @@ PARALLEL_EXEC="$x $f --params="rpmc_settings.jld2" --worker {1}"
 # Any further definitions
 THREADING=1
 
-export JULIA_PROJECT=/storage/mssgwp_grp/msrkhg/ammonia_rpsh/
+export JULIA_PROJECT=.
 export MKL_DYNAMIC=FALSE # ToDo: Test if this makes a difference here
 export OMP_NUM_THREADS=$THREADING
 export MKL_NUM_THREADS=$THREADING
