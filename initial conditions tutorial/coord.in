@@ -1,0 +1,35 @@
+NUMBER OF SETS:
+8   1
+MORSE N-H
+0   1   0
+1   2   0   0
+ 1.000     1.50000
+repulsive N-H
+0   3   0
+1   2   0   0
+ 1.000     2.00000
+MORSE H-H
+0   1   0
+2   3   0   0 
+ 1.000     1.50000  
+GAUSS N-H 1
+0   2   0
+1   2   0   0 
+ 1.000     2.00000  
+GAUSS H-H 2
+0   2   1
+2   3   0   0 
+ 0.600     1.40000  
+29: angular section function
+1   2   0
+2   3  1   0
+0.15 3.00
+dist section funciton
+0   7    2
+1   2   0  0
+0.25 2.50
+OOP
+-2  -1  0
+1   2   3   4
+ 0.500     2.00000
+1 1 1 1 0 0 0 0 2

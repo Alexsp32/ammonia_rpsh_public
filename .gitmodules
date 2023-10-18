@@ -1,0 +1,3 @@
+[submodule "AmmoniaSingletsModel.jl"]
+	path = AmmoniaSingletsModel.jl
+	url = https://github.com/NQCD/AmmoniaSingletsModel.jl
